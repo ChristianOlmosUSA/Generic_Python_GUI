@@ -1,1 +1,1 @@
-# Generic_Python_GUI
+# Generic_Python_GUI_in_Kivy
